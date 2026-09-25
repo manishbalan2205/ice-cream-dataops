@@ -1,5 +1,5 @@
 environment:
-  name: icapi_trigger_client_secret # prod, staging, dev, test, qa
+  name: prod # prod, staging, dev, test, qa
   project: cdf-bootcamp-34-prod # ex. cdf-bootcamp-01-test
   validation-type: prod # prod, staging, dev, test, qa
   selected:
